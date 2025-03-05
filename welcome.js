@@ -5,27 +5,27 @@ document.addEventListener("DOMContentLoaded", () => {
     // Default images to use if no custom images are uploaded
     const defaultImages = [
       {
-        src: "/resources/img1.webp",
+        src: "https://raw.githubusercontent.com/RogerrMonkey/Image-Slider/refs/heads/main/resources/img1.webp",
         title: "Beautiful Nature",
         description: "A stunning landscape showcasing the beauty of nature.",
       },
       {
-        src: "/resources/img2.jpg",
+        src: "https://raw.githubusercontent.com/RogerrMonkey/Image-Slider/refs/heads/main/resources/img2.jpg",
         title: "Urban Landscape",
         description: "A vibrant cityscape with modern architecture.",
       },
       {
-        src: "/resources/img3.jpg",
+        src: "https://github.com/RogerrMonkey/Image-Slider/blob/main/resources/img3.jpg?raw=true",
         title: "Tropical Paradise",
         description: "A serene beach with crystal clear waters.",
       },
       {
-        src: "/resources/img4.jpg",
+        src: "https://github.com/RogerrMonkey/Image-Slider/blob/main/resources/img4.jpg?raw=true",
         title: "Majestic Mountains",
         description: "Towering mountains reaching for the sky.",
       },
       {
-        src: "/resources/img5.jpg",
+        src: "https://github.com/RogerrMonkey/Image-Slider/blob/main/resources/img5.jpg?raw=true",
         title: "Enchanted Forest",
         description: "A mystical forest filled with ancient trees.",
       },
